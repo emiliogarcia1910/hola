@@ -1,1 +1,27 @@
-<?php echo "hola mundo"; ?>
+<?php echo "hola mundo"; //lo basico   
+$nombre = 'Manolo'; // Texto. Puede ser con comillas simples o dobles (String)
+$edad = 31; // Enteros (Integer)
+$altura = 1.72; // Decimales, usando el punto en lugar de la coma (float)
+$mayorEdad = true; // Verdad o falso (boolean)
+
+//$nombreCompleto = "Juan Pérez" // Falta cerrar con ;
+$Edad = 25;  //Está bien
+$estAtura = 1.75;  //Cambiaria el nombre de la variable por estatura o Estatura
+$numero = "10";  //Está mal puesto, lo detecta como String en vez de entero (cambias " por ')
+// Apellido = 'Fernández'; //Falta el $ 
+// pais_de_origen= "Uruguay" //Falta cerrar con ; y no hay espacio en el "="
+// $salario = $2000; // El $ está mal puesto, ya que solo debes colocar solamente el numero en la variable
+
+
+
+
+
+?>
+
+
+
+
+
+
+
+

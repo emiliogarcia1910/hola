@@ -25,6 +25,15 @@ const PI= 3.14;
 
 
 
+
+$emisora = 'Radio Disney'; //una sola comilla detecta como String ignorando si es una variable y pasandola todo directamente
+echo "Me gusta escuchar $emisora";
+
+$nombre = "Bruno";
+$saludo= "Hola";
+echo $nombre . $saludo
+
+
 ?>
 
 

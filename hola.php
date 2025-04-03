@@ -29,9 +29,17 @@ const PI= 3.14;
 $emisora = 'Radio Disney'; //una sola comilla detecta como String ignorando si es una variable y pasandola todo directamente
 echo "Me gusta escuchar $emisora";
 
+
+//concadenación se usa el .  
 $nombre = "Bruno";
 $saludo= "Hola";
-echo $nombre . $saludo
+echo $nombre . $saludo;
+
+$saludos = "holaa";
+$saludos .= "Brunoo";
+echo $saludos;
+
+
 
 
 ?>
